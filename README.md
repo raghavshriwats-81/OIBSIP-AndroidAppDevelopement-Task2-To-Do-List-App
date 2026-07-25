@@ -38,3 +38,23 @@ raghav-todo-app/
 │   └── build.gradle
 ├── .gitignore
 └── README.md
+
+
+📦 How to Setup & Run
+Clone the Repository:
+
+Bash
+git clone [https://github.com/raghavshriwats/raghav-todo-app.git](https://github.com/raghavshriwats/raghav-todo-app.git)
+Open in Android Studio:
+
+Launch Android Studio.
+
+Click Open and select the cloned folder.
+
+Wait for Gradle sync to complete.
+
+Run the Project:
+
+Select your Emulator (Pixel 10 Pro) or connected Physical Device.
+
+Press Shift + F10 or click the Play ( ▶ ) button.
