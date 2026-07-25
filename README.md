@@ -44,7 +44,7 @@ raghav-todo-app/
 Clone the Repository:
 
 Bash
-git clone [https://github.com/raghavshriwats/raghav-todo-app.git](https://github.com/raghavshriwats/raghav-todo-app.git)
+git clone [https://github.com/raghavshriwats-81/raghav-todo-ap.git](https://github.com/raghavshriwats-81/raghav-todo-app.git)
 Open in Android Studio:
 
 Launch Android Studio.
